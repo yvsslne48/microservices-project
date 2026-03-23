@@ -160,3 +160,4 @@ C:\Users\Lenovo\source\repos\microservices-project\ms1-auth\obj\Debug\net9.0\ref
 C:\Users\Lenovo\source\repos\microservices-project\ms1-auth\obj\Debug\net9.0\ms1-auth.pdb
 C:\Users\Lenovo\source\repos\microservices-project\ms1-auth\obj\Debug\net9.0\ms1-auth.genruntimeconfig.cache
 C:\Users\Lenovo\source\repos\microservices-project\ms1-auth\obj\Debug\net9.0\ref\ms1-auth.dll
+C:\Users\Lenovo\source\repos\microservices-project\ms1-auth\obj\Debug\net9.0\ms1-auth.sourcelink.json
